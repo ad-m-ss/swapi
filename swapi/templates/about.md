@@ -74,3 +74,4 @@ SWAPI would not be possible without contributions from the following people:
 - [Carvilsi](https://github.com/carvilsi)
 - [Andrea Stagi](https://github.com/astagi)
 - [Juriy Bura](https://github.com/juriy)
+- [Alan Dean Foster](https://en.wikipedia.org/wiki/Alan_Dean_Foster) & [George Lucas](https://en.wikipedia.org/wiki/George_Lucas)
